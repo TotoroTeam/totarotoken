@@ -1,4 +1,4 @@
-# totarotoken
+# TotaroToken
 This is an erc20 token 
 
 Token name : Totoro
